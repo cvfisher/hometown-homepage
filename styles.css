@@ -42,13 +42,13 @@ body {
   background-image: url("img/shrewsbury-2.jpeg");
 }
 
-.header,
-.sub-header {
+#header,
+#sub-header {
   color: #f1faee;
   border-radius: 10px;
 }
 
-.header {
+#header {
   background-color: #1d3557;
   font-size: 32px;
   font-weight: 700;
@@ -56,7 +56,7 @@ body {
   margin-bottom: 0px;
 }
 
-.sub-header {
+#sub-header {
   background-color: #457b9d;
   font-family: Elsie Regular;
   text-shadow: 0 0 5px #1d3557;
