@@ -80,6 +80,7 @@ body {
 .activity-img:hover {
   transform: scale(1.2);
   cursor: pointer;
+  transition: 1.5s;
 }
 
 .activities-wrapper {
@@ -132,6 +133,7 @@ body {
 .guide-card:hover {
   transform: scale(1.2);
   cursor: pointer;
+  transition: 1.5s;
 }
 
 .guide-info {
